@@ -1,0 +1,15 @@
+{
+	"name": "azureproject-factory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56c0c14e-488c-4685-923e-d2efec295d81",
+		"tenantId": "62e16766-1870-41d2-9d9c-4987782dd71a"
+	}
+}
